@@ -17,6 +17,6 @@ This project focuses on cleaning and analyzing sales data using Microsoft Excel.
 
 ### 🧠 Skills Used
 Excel Data Cleaning | Pivot Tables | Slicers | Dashboard Design  
-C:\Users\adiel\Downloads\sales_data_cleaning_project.xlsx
+
 
 
